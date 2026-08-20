@@ -2,8 +2,7 @@
 
    <div align="center">
      <a href="https://lgnsolucoes.com.br">
-       <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600
  &lines=Nivaldo+Junior;Front-end+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing
  SVG" />
      </a>
