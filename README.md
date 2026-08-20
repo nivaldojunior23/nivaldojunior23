@@ -59,3 +59,15 @@
 
    ### 🌐 [Portfólio Pessoal](https://lgnsolucoes.com.br)
    > Plataforma desenvolvida para apresentação de projetos, casos de uso e habilidades técnicas no ecossistema web moderno.
+> 
+   ---
+
+   ## 🐍 Atividade no GitHub
+
+   <picture>
+     <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/nivaldojunior23/nivaldojunior23/output/github-contribution-grid-snake-dark.svg">
+     <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/nivaldojunior23/nivaldojunior23/output/github-contribution-grid-snake.svg">
+     <img alt="Snake animation" src="https://raw.githubusercontent.com/nivaldojunior23/nivaldojunior23/output/github-contribution-grid-snake.svg">
+   </picture>
