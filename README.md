@@ -5,8 +5,7 @@
    Criando interfaces modernas, acessíveis e focadas em performance e experiência do usuário.
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivaldo-junior-
- a2a855286)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivaldo-junior-a2a855286)
    [![Portfólio](https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://lgnsolucoes.com.br)
    [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldojunior117@gmail.com)
 
