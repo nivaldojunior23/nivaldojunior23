@@ -1,6 +1,6 @@
- # Olá, eu sou o Nivaldo Junior 👋
+   # Olá, eu sou o Nivaldo Junior 👋
 
-   ### 🚀 Desenvolvedor Front-end | Graduando em Ciência da Computação
+   ### 👨‍💻 Desenvolvedor Front-end | Graduando em Ciência da Computação
 
    Criando interfaces modernas, acessíveis e focadas em performance e experiência do usuário.
 
@@ -13,54 +13,49 @@
 
    ## ⚡ Sobre Mim
 
-   - 🎓 Graduando em **Ciência da Computação** pela **Universidade da Amazônia (UNAMA)** (Previsão: 2026).
-   - 💼 Estagiário em **Desenvolvimento de Sistemas** na **Defensoria Pública do Estado do Pará (DPE/PA)**.
-   - 🎯 Foco em **React.js**, **Next.js**, **TypeScript** e testes E2E com **Playwright**.
-   - 📍 Belém, PA - Brasil.
+   | Categoria | Detalhes |
+   | :--- | :--- |
+   | 🎓 **Formação** | Bacharelado em Ciência da Computação — UNAMA (Previsão: 2026) |
+   | 💼 **Experiência** | Estagiário em Desenvolvimento de Sistemas na Defensoria Pública do Estado do Pará (DPE/PA) |
+   | 🚀 **Foco Atual** | React.js, Next.js, TypeScript e Automação de Testes E2E com Playwright |
+   | 📍 **Localização** | Belém, Pará — Brasil |
+   | 🎯 **Objetivo** | Construir interfaces modernas, de alta performance e acessíveis |
 
-   ```javascript
-   const nivaldo = {
-     pronouns: "Ele/Dele",
-     role: "Front-end Developer & Estagiário em T.I.",
-     currentStack: ["React.js", "Next.js", "TypeScript", "Playwright"],
-     motto: "Transformando linhas de código em experiências visuais funcionais."
-   };
- ```
+   ---
 
- ────────────────────────────────────────────────────────────────────────────────
+   ## 🛠️ Tecnologias & Ferramentas
 
- 🛠️ Tech Stack & Ferramentas
+   ### Linguagens & Frameworks
+   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
- TypeScript
- JavaScript
- React
- Next.js
- HTML5
- CSS3
- TailwindCSS
- Playwright
- Figma
- Git
- GitLab
- Arch Linux
- Ubuntu
- VS Code
+   ### Testes & Qualidade
+   ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+   ![E2E Testing](https://img.shields.io/badge/E2E_Testing-4B32C3?style=for-the-badge&logoColor=white)
 
- ────────────────────────────────────────────────────────────────────────────────
+   ### Design & Prototipação
+   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+   ![UI/UX](https://img.shields.io/badge/UI/UX_Design-0AC18E?style=for-the-badge&logoColor=white)
 
- 📌 Projetos em Destaque
+   ### Ferramentas & Ambientes
+   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
- ### 🏛️ Adcin Templo Central
+   ---
 
- │ Site institucional completo desenvolvido com HTML5 semântico, CSS3 puro e JavaScript vanilla. Conta com modo escuro persistente, navegação mobile
- │ responsiva e hospedagem de alta performance no Netlify.
+   ## 🚀 Projetos em Destaque
 
- ### 🌐 Portfólio Pessoal
+   ### 🏛️ [Adcin Templo Central](https://adcintemplocentral.com.br)
+   > Site institucional completo construído com **HTML5 semântico**, **CSS3 puro** e **JavaScript vanilla**. Conta com modo escuro automático
+ persistente, carrossel de imagens, menu mobile responsivo e hospedagem otimizada no Netlify.
 
- │ Plataforma pessoal criada para apresentação de projetos, casos de uso e trajetória técnica no ecossistema web.
-
- ────────────────────────────────────────────────────────────────────────────────
-
- 🏆 GitHub Trophies
-
- Trophies
+   ### 🌐 [Portfólio Pessoal](https://lgnsolucoes.com.br)
+   > Plataforma desenvolvida para apresentação de projetos, casos de uso e habilidades técnicas no ecossistema web moderno.
