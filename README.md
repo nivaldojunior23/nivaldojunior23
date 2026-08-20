@@ -18,14 +18,13 @@
    - 🎯 Foco em **React.js**, **Next.js**, **TypeScript** e testes E2E com **Playwright**.
    - 📍 Belém, PA - Brasil.
 
-   ```javascript
+  
    const nivaldo = {
      pronouns: "Ele/Dele",
      role: "Front-end Developer & Estagiário em T.I.",
      currentStack: ["React.js", "Next.js", "TypeScript", "Playwright"],
      motto: "Transformando linhas de código em experiências visuais funcionais."
    };
- ```
 
  ────────────────────────────────────────────────────────────────────────────────
 
