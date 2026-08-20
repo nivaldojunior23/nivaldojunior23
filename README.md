@@ -4,14 +4,11 @@
    ### Desenvolvedor Front-end & Graduando em Ciência da Computação
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.
- com/in/nivaldo-junior-a2a855286)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivaldo-junior-a2a855286)
 
- [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lgnsolu
- coes.com.br)
+ [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lgnsolucoes.com.br)
 
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldojunior117@gm
- ail.com)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldojunior117@gmail.com)
 
    </div>
 
@@ -82,10 +79,10 @@
 
    <p align="center">
      <img
- src="https://github-readme-stats.vercel.app/api?username=SEU_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&
+ src="https://github-readme-stats.vercel.app/api?username=nivaldojunior23&show_icons=true&theme=tokyonight&hide_border=true&
  count_private=true" height="150" alt="GitHub Stats" />
      <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_bo
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaldojunior23&layout=compact&theme=tokyonight&hide_bo
  rder=true" height="150" alt="Top Languages" />
    </p>
 
