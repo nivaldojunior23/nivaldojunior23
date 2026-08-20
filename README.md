@@ -1,36 +1,21 @@
- # Olá, eu sou o Nivaldo Junior 👋
+  # Olá, eu sou o Nivaldo Junior 👋
 
-   <div align="center">
-     <a href="https://lgnsolucoes.com.br">
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600
- &lines=Nivaldo+Junior;Front-end+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Graduando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing
- SVG" />
-     </a>
-   </div>
+   ### 🚀 Desenvolvedor Front-end | Graduando em Ciência da Computação
 
-   <p align="center">
-     <strong>Criando interfaces modernas, acessíveis e focadas em experiência do usuário.</strong>
-   </p>
+   Criando interfaces modernas, acessíveis e focadas em performance e experiência do usuário.
 
-   <p align="center">
-     <a href="https://linkedin.com/in/nivaldo-junior-a2a855286" target="_blank">
-       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-     </a>
-     <a href="https://lgnsolucoes.com.br" target="_blank">
-       <img src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfólio" />
-     </a>
-     <a href="mailto:nivaldojunior117@gmail.com">
-       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-     </a>
-   </p>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivaldo-junior-a2a855286)
+   [![Portfólio](https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://lgnsolucoes.com.br)
+   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivaldojunior117@gmail.com)
 
    ---
 
    ## ⚡ Sobre Mim
 
-   - 🎓 Graduando em **Ciência da Computação** pela **Universidade da Amazônia (UNAMA)** (2026).
+   - 🎓 Graduando em **Ciência da Computação** pela **Universidade da Amazônia (UNAMA)** (Previsão: 2026).
    - 💼 Estagiário em **Desenvolvimento de Sistemas** na **Defensoria Pública do Estado do Pará (DPE/PA)**.
-   - 🚀 Foco em **React**, **Next.js**, **TypeScript** e testes automatizados E2E com **Playwright**.
+   - 🎯 Foco em **React.js**, **Next.js**, **TypeScript** e testes E2E com **Playwright**.
    - 📍 Belém, PA - Brasil.
 
    ```javascript
@@ -44,49 +29,39 @@
 
  ────────────────────────────────────────────────────────────────────────────────
 
- 🛠️ Tech Stack & Arsenal
+ 🛠️ Tech Stack & Ferramentas
 
- <div align="center">
-   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,postgres&theme=dark" alt="Linguagens e Frameworks" />
-   <br/><br/>
-   <img src="https://skillicons.dev/icons?i=figma,git,gitlab,arch,ubuntu,vscode,postman&theme=dark" alt="Ferramentas e Ambientes" />
- </div>
-
- ────────────────────────────────────────────────────────────────────────────────
-
- 🚀 Projetos em Destaque
-
- <table>
-   <tr>
-     <td width="50%">
-       <h3 align="center">🏛️ Adcin Templo Central</h3>
-       <p align="center">Site institucional completo em HTML5 semântico, CSS3 e JS Vanilla. Modo escuro automático, carrossel responsivo e alta
- performance de carregamento no Netlify.</p>
-       <p align="center">
-         <a href="https://adcintemplocentral.com.br"><b>Ver Projeto ↗</b></a>
-       </p>
-     </td>
-     <td width="50%">
-       <h3 align="center">🌐 Portfólio Pessoal</h3>
-       <p align="center">Plataforma desenvolvida para exibição de casos de uso, soluções de software e projetos pessoais com design moderno e
- responsivo.</p>
-       <p align="center">
-         <a href="https://lgnsolucoes.com.br"><b>Ver Projeto ↗</b></a>
-       </p>
-     </td>
-   </tr>
- </table>
+ TypeScript
+ JavaScript
+ React
+ Next.js
+ HTML5
+ CSS3
+ TailwindCSS
+ Playwright
+ Figma
+ Git
+ GitLab
+ Arch Linux
+ Ubuntu
+ VS Code
 
  ────────────────────────────────────────────────────────────────────────────────
 
- 🏆 Conquistas & Atividade GitHub
+ 📌 Projetos em Destaque
 
- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=nivaldojunior23&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
- </div>
+ ### 🏛️ Adcin Templo Central
 
- <br/>
+ │ Site institucional completo desenvolvido com HTML5 semântico, CSS3 puro e JavaScript vanilla. Conta com modo escuro persistente, navegação mobile
+ │ responsiva e hospedagem de alta performance no Netlify.
 
- <div align="center">
-   <img src="https://raw.githubusercontent.com/nivaldojunior23/nivaldojunior23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
- </div>
+ ### 🌐 Portfólio Pessoal
+
+ │ Plataforma pessoal criada para apresentação de projetos, casos de uso e trajetória técnica no ecossistema web.
+
+ ────────────────────────────────────────────────────────────────────────────────
+
+ 🏆 GitHub Trophies
+
+ Trophies
+
